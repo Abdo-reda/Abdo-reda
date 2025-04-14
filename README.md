@@ -1,6 +1,6 @@
 # Hi
 
-I am AbdoReda / NoPoint, I will keep this brief. I am a random curious human being who loves creating, explaining, solving stuff! I currently specialize in full stack web development while slowly transitioning to game dev ...  If you want to know more about me, or want to have a discussion in any common interest, just reach out!
+I am AbdoReda. I am a random curious human being who loves creating, explaining, solving stuff! I currently specialize in full stack web development while slowly transitioning to game dev ...  If you want to know more about me, or want to have a discussion in any common interest, just reach out!
 
 ### Interests & Technologies
 
